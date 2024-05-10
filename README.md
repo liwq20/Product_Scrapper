@@ -2,7 +2,7 @@ Here's a revised and paraphrased version of the README.md file for the Newegg Pr
 
 ---
 
-# Newegg Product Scraper
+# Product Scraper
 
 ## Overview
 
@@ -27,11 +27,11 @@ Before installation, make sure you have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/newegg-scraper.git
+   git clone https://github.com/liwq20/Prodcut_Scrapper.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd newegg-scraper
+   cd Product_Scrapper
    ```
 3. Install necessary dependencies:
    ```bash
