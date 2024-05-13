@@ -1,7 +1,3 @@
-Here's a revised and paraphrased version of the README.md file for the Newegg Product Scraper project, written in a clear and concise style:
-
----
-
 # Product Scraper
 
 ## Overview
