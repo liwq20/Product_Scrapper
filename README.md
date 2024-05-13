@@ -50,7 +50,3 @@ To use the scraper, follow these steps:
    dotnet run
    ```
 The scraper will execute based on default settings defined in the Main method. Adjust these parameters within the code to tailor the scraping process to your needs.
-
----
-
-This rewritten README.md simplifies the original content while maintaining the essential details, making it accessible for users needing quick setup and usage instructions.
